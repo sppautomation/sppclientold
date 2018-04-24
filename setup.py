@@ -21,14 +21,14 @@ setup(
     # https://packaging.python.org/en/latest/single_source_version.html
     version='0.50',
 
-    description="A client for IBM Spectrum Protect Plus. ",
+    description="A client for SPP",
     long_description=long_description,
 
     # The project's main homepage.
     url='https://github.com/sppautomation/sppclient',
 
     # Author details
-    author='IBM',
+    author='Ben Jones',
     author_email='ben.jones@ibm.com',
 
     # Choose your license
