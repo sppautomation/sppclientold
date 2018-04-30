@@ -17,7 +17,7 @@ Installation
 
 ::
 
-$ pip install ecxclient
+$ pip install sppclient
 
 OR
 
